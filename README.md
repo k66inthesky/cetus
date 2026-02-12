@@ -1,43 +1,29 @@
 # Cetus SDK Skill for OpenClaw
 
 OpenClaw skill for integrating all Cetus Protocol SDK v2 modules on Sui.
+OpenClaw 技能包，整合 Sui 鏈上 Cetus Protocol SDK v2 全部模組。
 
-## Install
+## Install 安裝
 
 ```bash
 npx clawhub install cetus
 ```
 
-## Modules
+## Modules 模組
 
 CLMM, DLMM, Vaults, Farms, xCETUS, Limit, Burn, DCA, Zap, Aggregator
 
-## Usage
+## Usage 使用方式
 
 See [SKILL.md](./SKILL.md) for full API reference and code examples.
-
----
-
-# Cetus SDK Skill for OpenClaw (中文)
-
-OpenClaw 技能包，整合 Sui 鏈上 Cetus Protocol SDK v2 全部模組。
-
-## 安裝
-
-```bash
-npx clawhub install cetus
-```
-
-## 模組
-
-CLMM、DLMM、Vaults、Farms、xCETUS、Limit、Burn、DCA、Zap、Aggregator
-
-## 使用方式
-
 完整 API 參考與範例請見 [SKILL.md](./SKILL.md)。
 
+## Contact 聯繫
++ Github repo: https://github.com/k66inthesky/cetus
++ Author: @k66inthesky https://github.com/k66inthesky/
+
 ---
-## AI tool 聲明
+## AI tool Desclaimer AI工具聲明
 + 參加Sui vibe Hackathon
 + 開發工具: 只用Claude Code CLI
 + 模型：只用Opus 4.6
