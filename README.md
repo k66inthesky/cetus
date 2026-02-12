@@ -40,7 +40,7 @@ CLMM、DLMM、Vaults、Farms、xCETUS、Limit、Burn、DCA、Zap、Aggregator
 ## AI tool 聲明
 + 參加Sui vibe Hackathon
 + 開發工具: 只用Claude Code CLI
-+ 模型：只用Open 4.6
++ 模型：只用Opus 4.6
 + 對話：
 ```
 (在Claude Code CLI下使用/compact)
