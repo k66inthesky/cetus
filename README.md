@@ -3,6 +3,9 @@
 OpenClaw skill for integrating all Cetus Protocol SDK v2 modules on Sui.
 OpenClaw 技能包，整合 Sui 鏈上 Cetus Protocol SDK v2 全部模組。
 
+## Why Use?
+Save your API token cost!! 大大省你叫OpenClaw做事時需要頻繁查詢的token啊！
+
 ## This Repo (cetus) on ClawHub
 https://clawhub.ai/k66inthesky/cetus
 
