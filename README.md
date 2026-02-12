@@ -25,6 +25,10 @@ See [SKILL.md](./SKILL.md) for full API reference and code examples.
 + Github repo: https://github.com/k66inthesky/cetus
 + Author: @k66inthesky https://github.com/k66inthesky/
 
+## Source 來源
++ https://github.com/CetusProtocol/aggregator
++ https://github.com/CetusProtocol/cetus-sdk-v2
+
 ---
 ## AI tool Desclaimer AI工具聲明
 + 參加[Sui vibe Hackathon](https://www.deepsurge.xyz/projects/0a576636-bc3a-4cac-aa5d-7c1e25f90414)
